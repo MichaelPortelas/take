@@ -1,0 +1,25 @@
+h1 {
+    color: white;
+}
+
+body{
+    font-family: 'open sans', sans-serif;
+}
+
+@media (min-width: 1200px){
+    .container{
+        width: 1230px
+    }
+}
+
+.pink {
+    background-color: #f5989d;
+}
+
+.blue {
+    background-color: #615f7d;
+}
+
+.green {
+    background-color: #82ca9c;
+}
